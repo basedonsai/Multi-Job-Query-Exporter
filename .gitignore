@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Build output
+bin/
+obj/
+
+# Publish output
+publish/
+
+# User-specific files
+*.user
+*.suo

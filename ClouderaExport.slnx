@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClouderaExport.Core/ClouderaExport.Core.csproj" />
+  <Project Path="ClouderaExport.Ui/ClouderaExport.Ui.csproj" />
+</Solution>
